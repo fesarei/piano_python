@@ -1,0 +1,5 @@
+游戏说明：
+1.audios中是88个音频的wav文件
+2.钢琴.png为背景图
+3.pictures中为各个按键按下之后的图片
+4.键盘zxcvbnm对应钢琴音c d e f g a b；asdfghj对应c1 d1 e1 f1 g1 a1 b1；qwertyu对应c2 d2 e 2 f2 g2 a2 b2.
